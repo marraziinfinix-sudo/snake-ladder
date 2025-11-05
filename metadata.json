@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Snakes and Ladders",
+  "description": "The classic game of Snakes and Ladders where the positions of snakes and ladders are randomly generated each time a new game starts, providing a unique experience every time you play.",
+  "requestFramePermissions": []
+}
